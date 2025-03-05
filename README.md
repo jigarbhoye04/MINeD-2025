@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on **malware detection using machine learning** techniques. We analyze software based on API call-related attributes to classify it into one of six types. The goal is to detect malware effectively by leveraging advanced data processing and machine learning algorithms.
+This project focuses on **malware detection using machine learning** techniques. We analyze software based on API call-related attributes to classify it into one of six types. The goal is to detect malware effectively by leveraging advanced data processing and machine learning algorithms .
 
 ## Data
 
